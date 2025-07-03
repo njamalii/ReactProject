@@ -7,6 +7,7 @@ In this React project i used:
 For accessing to data I used json-server.
 
 When you open the code in **VSCode** write this code in vscode terminal to access data:
+
  	` npx json-server db.json`
 
 Then open the command prompt and run:
