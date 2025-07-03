@@ -11,6 +11,7 @@ When you open the code in **VSCode** write this code in vscode terminal to acces
  	` npx json-server db.json`
 
 Then open the command prompt and run:
+
  	`npm run dev`
 
 
