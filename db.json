@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "KZ-560 Watch",
+      "price": 13.67,
+      "content": "This new silver watch KZ-560 (Men and Women)",
+      "image": "/images/w1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "SZ-45 Watch",
+      "price": 12.99,
+      "content": "This is the new brown watch SZ-45 (Women)",
+      "image": "/images/w2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "WE-23 Watch",
+      "price": 20.5,
+      "content": "This new blue metalic watch WE-23 (Men)",
+      "image": "/images/w3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "XA-33 Watch",
+      "price": 20.88,
+      "content": "This the new XA-33 suitable for work. (Men)",
+      "image": "/images/w4.jpg"
+    },
+    {
+      "id": "5",
+      "title": "XA-33 Watch",
+      "price": 32.89,
+      "content": "This the new Golden-X3 watch suitable for parties. (Men)",
+      "image": "/images/w5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "XA-33 Watch",
+      "price": 24.99,
+      "content": "This the new Golden-X1 watch suitable for parties. (Men and Women)",
+      "image": "/images/w6.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "fc76",
+      "name": "Neda",
+      "email": "nsjamali96@gmail.com",
+      "comment": "Hello i want to return watch because it is broken"
+    },
+    {
+      "id": "4dbc",
+      "name": "Ali",
+      "email": "alimprivate123@gmail.com",
+      "comment": "I have a question about website."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
